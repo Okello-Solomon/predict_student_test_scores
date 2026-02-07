@@ -2,7 +2,7 @@
 ---
 **Live Application**
 
-**Open the Streamlit App:** https://your-streamlit-app-link-here
+[https://your-streamlit-app-link-here](https://predictstudenttestscores-zricng54xnwma5r6qhajqt.streamlit.app/)
 
 Use the link above to interact with the application and predict student test scores in real time.
 
