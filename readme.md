@@ -38,12 +38,13 @@ data preprocessing → feature engineering → model evaluation → deployment
 
 **Evaluation Metric:** Root Mean Squared Error (RMSE) and R2_Score
 
-**Validation Strategy:** Cross-Validation
+**Validation Strategy:** 
+- Cross-Validation
 
-Linear Regression was selected due to its:
+- Linear Regression was selected due to its:
 
-Strong baseline performance
+- Strong baseline performance
 
-Interpretability
+- Interpretability
 
-Stability on structured tabular dat
+- Stability on structured tabular dat
