@@ -12,7 +12,7 @@ Use the link above to interact with the application and predict student test sco
 This project predicts student test scores based on demographic, academic, and lifestyle factors using a Linear Regression model.
 The model is trained, evaluated using cross-validation, and deployed through an interactive Streamlit web application.
 
-The project demonstrates a complete end-to-end machine learning workflow:
+**The project demonstrates a complete end-to-end machine learning workflow:**
 
 data preprocessing → feature engineering → model evaluation → deployment
 
